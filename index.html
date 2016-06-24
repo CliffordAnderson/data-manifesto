@@ -1,8 +1,89 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <title>Data Manifesto</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Carlos Alvarez, Theme designer & developer living in Madrid, Spain.">
+    <meta name="author" content="Carlos Alvarez">
+    <link rel="shortcut icon" href="ico/favicon.png">
+
+    <title>Data First Manifesto</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+
+    <!-- Custom styles for this template -->
+    <link href="css/main.css" rel="stylesheet">
+
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../docs-js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
   </head>
+
   <body>
-    <h1>Hello, Todd!</h1>
+
+
+    <div class="container">
+    	<div class="logo">
+	    	<img src="img/logo.png" width="100" alt="BlackTie.co">
+    	</div>
+		<div class="row centered">
+			<div class="col-lg-8 col-lg-offset-2 w">
+				<h1>Data First Manifesto</h1>
+			</div>
+		</div>
+		<div class="row centered">
+			<div class="col-lg-8 col-lg-offset-2">
+        <h2>Data Serializations over Databases</h2>
+        <h2>Application Programming Interfaces over Graphic User Interfaces</h2>
+        <h2>Curating Data over Summarizing Information</h2>
+        <h2>Citing Datasets over Referring to Results</h2>
+      </div>
+		</div>
+    </div><!-- /.container -->
+
+    <div class="container">
+    	<div class="row w centered">
+    		<br>
+    		<div class="col-lg-6 col-lg-offset-3">
+    			<p>Agree? Want to Sign on? <a href="#">Learn more...</a></p>
+    		</div>
+    	</div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <script>
+    $('.tooltip-demo').tooltip({
+      selector: "[data-toggle=tooltip]",
+      container: "body"
+    })
+	</script>
+
+
+    <!--BACKSTRETCH-->
+    <!-- You can use an image of whatever size. This script will stretch to fit in any screen size.-->
+    <script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
+    <script>
+        $.backstretch("img/bg.jpg", {speed: 500});
+    </script>
+
   </body>
 </html>
