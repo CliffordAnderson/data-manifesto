@@ -1,5 +1,4 @@
-Data-First Manifesto
-====================
+#Data-First Manifesto
 
 In this spirit of the [Agile Manifesto](http://www.agilemanifesto.org/),
 we are seeking to develop more agile, collaborative, efficient, and
@@ -14,9 +13,11 @@ emphasizing:
 
 * **Citing Datasets** over Referring to Results
 
-In the words of the [Agile Manifesto](http://www.agilemanifesto.org/),\
+In the words of the [Agile Manifesto](http://www.agilemanifesto.org/),
 "That is, while there is value in the items on the right, we value the
 items on the left more."
+
+##Signers
 
 Agree? Want to Sign on? Put your name below (by making a pull request to this repository)
 
