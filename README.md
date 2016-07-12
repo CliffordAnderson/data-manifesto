@@ -1,28 +1,22 @@
-Data First Manifesto
+Data-First Manifesto
 ====================
 
 In this spirit of the [Agile Manifesto](http://www.agilemanifesto.org/),
 we are seeking to develop more agile, collaborative, efficient, and
 transparent practices in digital scholarship. To those ends, we propose
-emphasizing:\
+emphasizing:
 
-**Data Serializations** over Databases
---------------------------------------
+* **Data Serializations** over Databases
 
-**Application Programming Interfaces** over Graphic User Interfaces
--------------------------------------------------------------------
+* **Application Programming Interfaces** over Graphic User Interfaces
 
-**Curating Data** over Summarizing Information
-----------------------------------------------
+* **Curating Data** over Summarizing Information
 
-**Citing Datasets** over Referring to Results
----------------------------------------------
+* **Citing Datasets** over Referring to Results
 
-\
 In the words of the [Agile Manifesto](http://www.agilemanifesto.org/),\
 "That is, while there is value in the items on the right, we value the
 items on the left more."
-
 
 Agree? Want to Sign on? Put your name below (by making a pull request to this repository)
 
