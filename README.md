@@ -26,3 +26,5 @@ Agree? Want to Sign on? Put your name below (by making a pull request to this re
 * Todd Hughes (Vanderbilt University)
 
 * Elisa Beshero-Bondar (University of Pittsburgh at Greensburg)
+
+* Washington and Lee University Digital Humanities Group
