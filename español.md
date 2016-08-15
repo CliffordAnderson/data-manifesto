@@ -1,3 +1,5 @@
+#Manifesto sobre la importancia de un enfoque en los datos
+
 Basándonos en el espíritu del [Manifesto Agile](<http://www.agilemanifesto.org/iso/es/manifesto.html>), buscamos una
 manera de desarrollar prácticas más ágiles, más colaborativas, más
 eficientes y más transparentes en los estudios digitales. Para llegar a
