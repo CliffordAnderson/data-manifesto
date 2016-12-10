@@ -29,3 +29,4 @@ Agree? Want to sign on? Put your name below (by making a pull request to this re
 
 * Washington and Lee University Digital Humanities Group
 
+* Adam Steffanick (Vanderbilt University)
