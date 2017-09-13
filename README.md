@@ -1,4 +1,4 @@
-#Data-First Manifesto
+# Data-First Manifesto
 
 In the spirit of the [Agile Manifesto](http://www.agilemanifesto.org/),
 we are seeking to develop more agile, collaborative, efficient, and
@@ -17,7 +17,7 @@ In the words of the [Agile Manifesto](http://www.agilemanifesto.org/),
 "That is, while there is value in the items on the right, we value the
 items on the left more."
 
-##Signers
+## Signers
 
 Agree? Want to sign on? Put your name below (by making a pull request to this repository)
 
